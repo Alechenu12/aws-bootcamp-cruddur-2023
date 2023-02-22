@@ -1,0 +1,17 @@
+[
+    {
+        "Notification": {
+            "ComparisonOperator": "GREATER_THAN",
+            "NotificationType": "ACTUAL",
+            "Threshold": 1,
+            "ThresholdType": "PERCENTAGE"
+        },
+        "Subscribers": [
+            {
+                "Address": "sundaygreat13@gmail.com",
+                             
+                "SubscriptionType": "EMAIL"
+            }
+        ]
+    }
+]
